@@ -1,0 +1,29 @@
+[
+  {
+    "id": 0,
+    "password": "string",
+    "first_name": "string",
+    "last_name": "string",
+    "username": "string",
+    "email": "string",
+    "gender": "string"
+  },
+  {
+    "id": 1,
+    "password": "password123",
+    "first_name": "Juan",
+    "last_name": "Perez",
+    "username": "juanperez",
+    "email": "juan.perez@example.com",
+    "gender": "male"
+  },
+  {
+    "id": 2,
+    "password": "password123",
+    "first_name": "Juan",
+    "last_name": "Perez",
+    "username": "juanperez",
+    "email": "juan.perez@example.com",
+    "gender": "male"
+  }
+]
